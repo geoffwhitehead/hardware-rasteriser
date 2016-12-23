@@ -18,6 +18,8 @@ Trees: Geometry Shader is used to turn scattered points into quads and applies t
 ## Getting Started
 
 Clone and run with visual studio.
+Build SOIL
+Build and run OpenGLGraphics 
 
 ## Built With
 
