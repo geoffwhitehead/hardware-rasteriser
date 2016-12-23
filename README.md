@@ -1,4 +1,4 @@
-# Software Rasteriser
+# Hardware Rasteriser
 
 Hardware rasteriser with a scene demonstrating use of primitives, models, meshes, interpolated colours, transparency, translations, textures, phong lighting, and shaders. Extended from NCLGL frameowork created by Rich Davidson (Newcastle University). Main focus of this project was to learn about shaders.
 
