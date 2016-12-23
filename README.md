@@ -26,7 +26,6 @@ Clone and run with visual studio.
 
 ## Screenshots
 
-Sample console output:
 ![console output](./ss1.png)
 
 ## Authors
